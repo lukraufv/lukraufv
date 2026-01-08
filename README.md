@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @lukraufv
-- 🌱 I’m a PhD student in Environmental and Marine Biology at Åbo Akademi University. I am looking into marine heatwaves and non-indigenous species and their impacts on the functioning of temperate coastal ecosystems.
+- 🌱 I am a PhD student (Environmental and Marine Biology) at Åbo Akademi University. I use mesocosm experiments to study how temperature gradients and marine heatwaves affect temperate coastal ecosystems, from individual species to communities and their interactions.
+- 🔑 Keywords: Extreme temperatures, Marine heatwaves, Mesocosms, Ecological networks, Trophic & non-trophic interactions
 - 📫 You can reach me at lukraufv@abo.fi
 
 
